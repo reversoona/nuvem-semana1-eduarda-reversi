@@ -1,6 +1,3 @@
-
-
-
 async function httpGetWeather() {
 show("Buscando clima (GET)...");
 try {
