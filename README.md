@@ -11,5 +11,8 @@
 
 # Semana 2 - HTTP e Fetch (sem Node)
 ## O que foi feito
-Relembrei o básico de HTTP testei consumo de API com fetch e sem node
+- Relembrei o básico de HTTP testei consumo de API com fetch e sem node
+
+## Dificuldade
+- tive alguns problemas com o codigo, mas depois consegui arrumar
 
