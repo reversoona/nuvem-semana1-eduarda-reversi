@@ -38,4 +38,3 @@ show("Erro no POST: " + err.message);
 }
 btnGet.addEventListener("click", httpGetWeather);
 btnPost.addEventListener("click", httpPostSimulado);
-);
